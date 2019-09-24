@@ -1,0 +1,9 @@
+README FOR PROGRAMMING ASSIGNMENT 1
+
+COMPILATION:
+    to compile: go build gradebook.go
+
+Excution:
+    to execute: ./gradebook
+
+NOTE: files containing student data must be in the same directory as gradebook.go and gradebook executeable

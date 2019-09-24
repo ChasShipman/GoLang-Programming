@@ -1,0 +1,21 @@
+Beth Allen
+100 100 100
+75 75 85 85 95
+Joe Davis
+50 85 96 20
+50 50 85 85 99
+Reza Albedin
+88 88 88
+45 45 99 99
+Diamond Royal
+99 99 75 75 85
+75 75 85 85
+Donnie Quincy
+50 85 96 20 20
+50 50 85 25 20
+Ely Alisha
+10 10 10 10 10 10 10 10 10
+10
+Gordon Aspen
+50
+90 90 90 90 90 90 90 90 90
